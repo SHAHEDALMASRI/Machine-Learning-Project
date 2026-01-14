@@ -100,7 +100,7 @@ Models were evaluated using:
 
 
 ## Author
-- Shahad Almasri
-- Lilian Alhalabi
-**Shahed Almasri**  
-Data Science / Computer Science Student  
+- **Shahad Almasri**
+- **Lilian Alhalabi**
+
+
