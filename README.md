@@ -100,7 +100,7 @@ Models were evaluated using:
 
 
 ## Author
-- **Shahad Almasri**
-- **Lilian Alhalabi**
+- **Shahad Almasri** https://github.com/SHAHEDALMASRI
+- **Lilian Alhalabi** https://github.com/Lilian-Alhalabi
 
 
